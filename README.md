@@ -1,4 +1,4 @@
-# password_test
+# password-test
 
 This is a small program intended to check whether a password exists in a given list of pwned passwords.
 
